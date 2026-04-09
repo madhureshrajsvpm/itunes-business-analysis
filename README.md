@@ -19,7 +19,7 @@ This project provides a comprehensive analysis of the Apple iTunes store dataset
 ## Project Components
 1. **[SQL Analysis](./sql/iTunes_Analysis.sql):** Includes scripts for data cleaning, schema modification, and trend analysis (Monthly revenue, genre popularity).
 2. **[Interactive Dashboard](./dashboard/):** A Tableau workbook visualizing global sales distribution and artist performance.
-3. **[Executive Report](./reports/Business_Report.docx):** A detailed business document outlining the "Why" behind the data and strategic recommendations for growth.
+3. **[Executive Report](./reports/Business_Report.pdf):** A detailed business document outlining the "Why" behind the data and strategic recommendations for growth.
 
 ## Entity Relationship Diagram (ERD)
 <img width="893" height="959" alt="iTunes_ERD" src="https://github.com/user-attachments/assets/03acfe20-1443-4653-b261-3c0e5f002af9" />
